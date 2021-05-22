@@ -1,8 +1,11 @@
 # IOT---Technion-097247-course
 
 Monitoring and analyzing fridge performace
+
 Hardware: ESP32
+
 Data storage: Azure cloud
+
 Dashborad: PowerBI
 
 Device statistics:
@@ -13,3 +16,6 @@ Performance Analysis:
 
 Forecasting:
 ![image](https://user-images.githubusercontent.com/39224267/119217166-f7eee000-bae0-11eb-92b5-1582299b8e08.png)
+
+project link:
+https://app.powerbi.com/links/C7C9HXD0KM?ctid=f1502c4c-ee2e-411c-9715-c855f6753b84&pbi_source=linkShare
