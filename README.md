@@ -1,7 +1,9 @@
 # IOT---Technion-097247-course
 
-Building, monitoring and analyzing fridge performace
-Dashborad built in PowerBI, from data collected and store on Azure cloud
+Monitoring and analyzing fridge performace
+Hardware: ESP32
+Data storage: Azure cloud
+Dashborad: PowerBI
 
 Device statistics:
 ![image](https://user-images.githubusercontent.com/39224267/119217133-c37b2400-bae0-11eb-93a1-40796460bb03.png)
